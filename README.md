@@ -1,6 +1,6 @@
 
 # Persian Digits
-New NodeJs package for changing number digits to Persian ones.
+New NodeJS package for changing number digits to Persian ones.
 
 ## How To Use It?
 Check out `master` branch.
