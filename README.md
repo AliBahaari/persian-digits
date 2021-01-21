@@ -16,4 +16,5 @@ And it returns a **string** containing your number but with Persian digits.
 
 ## Development
 For improving, check out `master` branch.
+
 Check out the package here: ***https://www.npmjs.com/package/persian-digits***
