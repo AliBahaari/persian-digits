@@ -14,4 +14,7 @@ persianDigits(0123456789);
 ```
 And it returns a **string** containing your number but with Persian digits.
 
-Check the package more here: ***https://www.npmjs.com/package/persian-digits***
+Check out the package more here: ***https://www.npmjs.com/package/persian-digits***
+
+### Development
+For improving, check out `master` branch for codes.
